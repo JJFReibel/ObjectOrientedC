@@ -2,7 +2,7 @@
 
 You can visit the [repo](https://github.com/JJFReibel/ObjectOrientedC) to view or fork the code.
 
-This project was created to show how to use or emulate OOP in pure C. The definiton of OOP is vague, as the name suggests that it is merely programming using objects as a significant feature. A more strict definition insists on having data structures with member functions. Depending on your definition, this project, and many other projects in my repos, either demonstrate or emulate OOP, also known as object oriented programming. Other projects in the repos are in the aming scheme of ObjectOriented_, where the underscore is replaced with either a programming language or other relevant technology. Many widely used languages are included, as well as some more obscure ones.
+This project was created to show how to use or emulate OOP in pure C. The definiton of OOP is vague, as the name suggests that it is merely programming using objects as a significant feature. A more strict definition insists on having data structures with member functions. Depending on your definition, this project, and many other projects in my repos, either demonstrate or emulate OOP, also known as object oriented programming. Other projects in the repos are in the naming scheme of ObjectOriented_, where the underscore is replaced with either a programming language or other relevant technology. Many widely used languages are included, as well as some more obscure ones.
 
 ### Guide
 
