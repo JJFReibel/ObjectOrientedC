@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to the project
 
-You can use the [editor on GitHub](https://github.com/JJFReibel/ObjectOrientedC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit the [repo](https://github.com/JJFReibel/ObjectOrientedC) to view or fork the code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project was created to show how to use or emulate OOP in pure C. The definiton of OOP is vague, as the name suggests that it is merely programming using objects as a significant feature. A more strict definition insists on having data structures with member functions. Depending on your definition, this project, and many other projects in my repos, either demonstrate or emulate OOP, also known as object oriented programming. Other projects in the repos are in the aming scheme of ObjectOriented_, where the underscore is replaced with either a programming language or other relevant technology. Many widely used languages are included, as well as some more obscure ones.
 
-### Markdown
+### Guide
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is not meant to make anyone an expert programmer, but merely a way to introduce programmers to other languages. Some languages have docs that may be difficult to compile into something coherent for the programmer, while others have barely any accessible docs at all. These projects are meant to be a crash course or survey into languages using OOP. Other important things to study are listed below.
 
 ```markdown
-Syntax highlighted code block
+Important things to study
 
-# Header 1
-## Header 2
-### Header 3
+# Keywords
+# Data types
+# Control (loops and such)
+# Mechanics (references, reflection, serialization, etc.)
+# ...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JJFReibel/ObjectOrientedC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are already an expert programmer, this is meant to try to help learn a new language. Good luck!
+Please visit my other repos, which contain code in several dozen languages, networking/system scripts, APIs, web programming, and more, including new technologies.
+Feel free to contact me via LinkedIn.
